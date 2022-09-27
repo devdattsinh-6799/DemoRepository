@@ -1,0 +1,6 @@
+This is version 1 of my project
+I want to commit this repository master
+changes are available in the given text
+This is changed now.
+This is always changed now .
+THis is a master.
